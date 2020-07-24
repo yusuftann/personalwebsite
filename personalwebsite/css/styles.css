@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(134, 136, 250);
+}
+
+.navbar {
+    width: 100%;
+    font-family: 'Patrick Hand', cursive;
+    background-color: rgb(134, 136, 250);
+    overflow: auto;
+}
+  
+
+.navbar a {
+    float: left;
+    padding: 12px;
+    color: rgb(134, 136, 250);
+    text-decoration: none;
+    font-size: 17px;
+    width: 20%; 
+    text-align: center; 
+    color: black;
+}
+  
+.navbar a:hover {
+    background-color: rgb(248, 242, 155);
+    color: black;
+}
+  
+
+.navbar a.active {
+    background-color: rgb(248, 242, 155);
+}
+
+/* .nav{
+    background-color: rgb(134, 136, 250);  
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;   
+    font-size: 20px;
+}
+
+.nav a{
+    display: block;
+    background-color: rgb(134, 136, 250);
+    color: black;
+}
+
+.nav a:hover{
+    background-color: rgb(248, 242, 155);
+    color: black;
+} */
+
+img{
+    width:300px;
+    height:300px;
+}
+
+h1{
+    font-size: 70px;
+    color: rgb(248, 242, 155);
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin: 0, 0, 0, 0;
+    padding: 0, 0, 0, 0;
+}
+
+p{
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Patrick Hand', cursive;
+}
